@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eafebd89-9286-48a9-990f-6a702e84e900" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.51452786">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-he-orhasulam.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="570">
+                  <caret line="26" column="156" lean-forward="true" selection-start-line="26" selection-start-column="156" selection-end-line="26" selection-end-column="156" />
+                  <folding>
+                    <element signature="e#1263#2980#0" />
+                    <element signature="e#2984#4702#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-en-bb.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="59" selection-start-line="59" selection-end-line="79" selection-end-column="3" />
+                  <folding>
+                    <element signature="e#4#1650#0" />
+                    <element signature="e#1654#3835#0" />
+                    <element signature="e#3839#5269#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-ru-bb.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="101">
+                  <caret line="59" selection-start-line="59" selection-end-line="79" selection-end-column="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-ru-zh.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="880">
+                  <caret line="79" column="3" lean-forward="true" selection-start-line="59" selection-start-column="2" selection-end-line="79" selection-end-column="3" />
+                  <folding>
+                    <element signature="e#4#1840#0" />
+                    <element signature="e#1844#4674#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/toimport.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="100">
+                  <caret line="85" column="1" lean-forward="true" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
+                  <folding>
+                    <element signature="e#0#1965#1" />
+                    <element signature="e#1928#3306#0" />
+                    <element signature="e#3397#4828#0" />
+                    <element signature="e#4832#5957#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/toimport.minified.json">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="text" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>{</find>
+      <find>}</find>
+      <find>здес</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/comments/foreword-zoar-brand-ru-zh.minified.json" />
+        <option value="$PROJECT_DIR$/comments/foreword-zoar-brand-ru-zh.json" />
+        <option value="$PROJECT_DIR$/articles/foreword-zoar-en-bb.json" />
+        <option value="$PROJECT_DIR$/articles/foreword-zoar-en-bb.minified.json" />
+        <option value="$PROJECT_DIR$/articles/foreword-zoar-he-orhasulam.json" />
+        <option value="$PROJECT_DIR$/articles/foreword-zoar-he-orhasulam.minified.json" />
+        <option value="$PROJECT_DIR$/articles/foreword-zoar-ru-bb.json" />
+        <option value="$PROJECT_DIR$/articles/foreword-zoar-ru-bb.minified.json" />
+        <option value="$PROJECT_DIR$/articles/foreword-zoar-ru-zh.minified.json" />
+        <option value="$PROJECT_DIR$/articles/foreword-zoar-ru-zh.json" />
+        <option value="$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-ru-bb.json" />
+        <option value="$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-ru-zh.json" />
+        <option value="$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-he-orhasulam.json" />
+        <option value="$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-en-bb.json" />
+        <option value="$PROJECT_DIR$/comments/toimport.json" />
+        <option value="$PROJECT_DIR$/toimport.minified.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="book-data" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\ooleynichenko\OneDrive\book-data" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="book-data" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\ooleynichenko\OneDrive\book-data" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="articles" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="book-data" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\ooleynichenko\OneDrive\book-data" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="articles" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="foreword-zoar" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ooleynichenko\OneDrive\book-data" />
+      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\articles\pticha" />
+      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\articles\foreword-zoar" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eafebd89-9286-48a9-990f-6a702e84e900" name="Default Changelist" comment="" />
+      <created>1570708630751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570708630751</updated>
+      <workItem from="1570708631888" duration="2359000" />
+      <workItem from="1570712870663" duration="502000" />
+      <workItem from="1571138842887" duration="3741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6602000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12961012" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22869022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="GraphQL" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/comments/foreword-zoar-brand-ru-zh.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="8" column="4808" lean-forward="true" selection-start-line="8" selection-start-column="4808" selection-end-line="8" selection-end-column="4808" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/foreword-zoar-brand-ru-zh.minified.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret column="642" selection-start-column="642" selection-end-column="642" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-he-orhasulam.minified.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-ru-bb.minified.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instruction.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/pticha/pticha-en-bb.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-ru-zh.minified.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-en-bb.minified.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="801">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-ru-zh.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="79" column="3" lean-forward="true" selection-start-line="59" selection-start-column="2" selection-end-line="79" selection-end-column="3" />
+          <folding>
+            <element signature="e#4#1840#0" />
+            <element signature="e#1844#4674#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-ru-bb.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="59" selection-start-line="59" selection-end-line="79" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-en-bb.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="59" selection-start-line="59" selection-end-line="79" selection-end-column="3" />
+          <folding>
+            <element signature="e#4#1650#0" />
+            <element signature="e#1654#3835#0" />
+            <element signature="e#3839#5269#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toimport.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="85" column="1" lean-forward="true" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#1965#1" />
+            <element signature="e#1928#3306#0" />
+            <element signature="e#3397#4828#0" />
+            <element signature="e#4832#5957#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toimport.minified.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-he-orhasulam.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="26" column="156" lean-forward="true" selection-start-line="26" selection-start-column="156" selection-end-line="26" selection-end-column="156" />
+          <folding>
+            <element signature="e#1263#2980#0" />
+            <element signature="e#2984#4702#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
