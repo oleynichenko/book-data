@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eafebd89-9286-48a9-990f-6a702e84e900" name="Default Changelist" comment="" />
+    <list default="true" id="eafebd89-9286-48a9-990f-6a702e84e900" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toimport.json" beforeDir="false" afterPath="$PROJECT_DIR$/toimport.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toimport.minified.json" beforeDir="false" afterPath="$PROJECT_DIR$/toimport.minified.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,54 +16,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.51452786">
+    <splitter split-orientation="horizontal" split-proportion="0.5225585">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-he-orhasulam.json">
+            <entry file="file://$PROJECT_DIR$/articles/pticha/pticha-ru-zh.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="570">
-                  <caret line="26" column="156" lean-forward="true" selection-start-line="26" selection-start-column="156" selection-end-line="26" selection-end-column="156" />
-                  <folding>
-                    <element signature="e#1263#2980#0" />
-                    <element signature="e#2984#4702#0" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-en-bb.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="59" selection-start-line="59" selection-end-line="79" selection-end-column="3" />
-                  <folding>
-                    <element signature="e#4#1650#0" />
-                    <element signature="e#1654#3835#0" />
-                    <element signature="e#3839#5269#0" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-ru-bb.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="101">
-                  <caret line="59" selection-start-line="59" selection-end-line="79" selection-end-column="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-ru-zh.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="880">
-                  <caret line="79" column="3" lean-forward="true" selection-start-line="59" selection-start-column="2" selection-end-line="79" selection-end-column="3" />
-                  <folding>
-                    <element signature="e#4#1840#0" />
-                    <element signature="e#1844#4674#0" />
-                  </folding>
+                <state relative-caret-position="200">
+                  <caret line="10" column="47" selection-end-line="94" />
                 </state>
               </provider>
             </entry>
@@ -68,24 +32,13 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/toimport.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="100">
-                  <caret line="85" column="1" lean-forward="true" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
-                  <folding>
-                    <element signature="e#0#1965#1" />
-                    <element signature="e#1928#3306#0" />
-                    <element signature="e#3397#4828#0" />
-                    <element signature="e#4832#5957#0" />
-                  </folding>
+                <state relative-caret-position="128">
+                  <caret line="26" column="10404" selection-start-line="26" selection-start-column="10404" selection-end-line="26" selection-end-column="10404" />
                 </state>
               </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/toimport.minified.json">
-              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
         </leaf>
@@ -106,6 +59,9 @@
       <find>здес</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -124,6 +80,7 @@
         <option value="$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-he-orhasulam.json" />
         <option value="$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-en-bb.json" />
         <option value="$PROJECT_DIR$/comments/toimport.json" />
+        <option value="$PROJECT_DIR$/toimport.json" />
         <option value="$PROJECT_DIR$/toimport.minified.json" />
       </list>
     </option>
@@ -134,12 +91,12 @@
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -162,9 +119,55 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-data" type="462c0819:PsiDirectoryNode" />
+              <item name="articles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-data" type="462c0819:PsiDirectoryNode" />
+              <item name="articles" type="462c0819:PsiDirectoryNode" />
+              <item name="foreword-zoar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-data" type="462c0819:PsiDirectoryNode" />
+              <item name="articles" type="462c0819:PsiDirectoryNode" />
+              <item name="foreword-zoar" type="462c0819:PsiDirectoryNode" />
+              <item name="foreword-zoar-en-bb.json" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-data" type="462c0819:PsiDirectoryNode" />
+              <item name="articles" type="462c0819:PsiDirectoryNode" />
+              <item name="pticha" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-data" type="462c0819:PsiDirectoryNode" />
+              <item name="comments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-data" type="462c0819:PsiDirectoryNode" />
+              <item name="toimport.json" type="620a8d5e:NestingTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -203,17 +206,20 @@
       <workItem from="1570708631888" duration="2359000" />
       <workItem from="1570712870663" duration="502000" />
       <workItem from="1571138842887" duration="3741000" />
+      <workItem from="1571817796954" duration="939000" />
+      <workItem from="1572267931123" duration="914000" />
+      <workItem from="1572356831801" duration="751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6602000" />
+    <option name="totallyTimeSpent" value="9206000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12961012" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07744995" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -226,7 +232,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33020833" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -268,35 +274,10 @@
     <entry file="file://$PROJECT_DIR$/instruction.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/articles/pticha/pticha-en-bb.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-ru-zh.minified.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-en-bb.minified.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="801">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-ru-zh.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="79" column="3" lean-forward="true" selection-start-line="59" selection-start-column="2" selection-end-line="79" selection-end-column="3" />
-          <folding>
-            <element signature="e#4#1840#0" />
-            <element signature="e#1844#4674#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -307,6 +288,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-ru-zh.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="80" column="1" lean-forward="true" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+          <folding>
+            <element signature="e#4#1840#0" />
+            <element signature="e#1844#4674#0" />
+            <element signature="e#4678#6643#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/pticha-ob-ru-zh.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/pticha-os-ru-zh.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-en-bb.minified.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-he-orhasulam.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="e#1263#2980#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/pticha/pticha-en-bb.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="93" selection-end-column="1" />
+          <folding>
+            <element signature="e#4#2898#0" />
+            <element signature="e#2902#4524#0" />
+            <element signature="e#4528#6326#0" />
+            <element signature="e#6330#7782#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-en-bb.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -314,35 +351,47 @@
           <folding>
             <element signature="e#4#1650#0" />
             <element signature="e#1654#3835#0" />
-            <element signature="e#3839#5269#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toimport.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="85" column="1" lean-forward="true" selection-start-line="85" selection-start-column="1" selection-end-line="85" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#1965#1" />
-            <element signature="e#1928#3306#0" />
-            <element signature="e#3397#4828#0" />
-            <element signature="e#4832#5957#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/toimport.minified.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-he-orhasulam.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="26" column="156" lean-forward="true" selection-start-line="26" selection-start-column="156" selection-end-line="26" selection-end-column="156" />
+        <state relative-caret-position="190">
+          <caret column="1940" selection-start-column="1940" selection-end-column="1940" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toimport.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="26" column="10404" selection-start-line="26" selection-start-column="10404" selection-end-line="26" selection-end-column="10404" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/pticha/pticha-he-orhasulam.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="76" column="22" lean-forward="true" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
           <folding>
-            <element signature="e#1263#2980#0" />
-            <element signature="e#2984#4702#0" />
+            <element signature="e#4#1709#0" />
+            <element signature="e#1713#2929#0" />
+            <element signature="e#2933#4208#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/pticha/pticha-ru-bb.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/pticha/pticha-ru-zh.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="47" selection-end-line="94" />
         </state>
       </provider>
     </entry>
