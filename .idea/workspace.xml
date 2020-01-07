@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eafebd89-9286-48a9-990f-6a702e84e900" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/articles/pticha/he-bs/pticha-he-orhasulam-42.minified.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-he-orhasulam.json" beforeDir="false" afterPath="$PROJECT_DIR$/articles/foreword-zoar/foreword-zoar-he-orhasulam.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/pticha/he-orhasulam/pticha-he-orhasulam-41.json" beforeDir="false" afterPath="$PROJECT_DIR$/articles/pticha/he-bs/pticha-he-orhasulam-41.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/pticha/he-orhasulam/pticha-he-orhasulam-41.minified.json" beforeDir="false" afterPath="$PROJECT_DIR$/articles/pticha/he-bs/pticha-he-orhasulam-41.minified.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/pticha/he-orhasulam/pticha-he-orhasulam-42.json" beforeDir="false" afterPath="$PROJECT_DIR$/articles/pticha/he-bs/pticha-he-orhasulam-42.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/pticha/he-orhasulam/pticha-he-orhasulam-42.minified.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles/pticha/he-orhasulam/pticha-he-orhasulam.json" beforeDir="false" afterPath="$PROJECT_DIR$/articles/pticha/he-bs/pticha-he-bs-1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toimport.json" beforeDir="false" afterPath="$PROJECT_DIR$/toimport.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toimport.minified.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments/foreword-zoar-brand-ru-zh.json" beforeDir="false" afterPath="$PROJECT_DIR$/comments/foreword-zoar/bv-ru-zh/foreword-zoar-brand-ru-zh.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments/foreword-zoar-brand-ru-zh.minified.json" beforeDir="false" afterPath="$PROJECT_DIR$/comments/foreword-zoar/bv-ru-zh/foreword-zoar-brand-ru-zh.minified.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments/pticha-ob-ru-zh.json" beforeDir="false" afterPath="$PROJECT_DIR$/comments/pticha/ob-ru-zh/pticha-ob-ru-zh.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments/pticha-ob-ru-zh.minified.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments/pticha-os-ru-zh.json" beforeDir="false" afterPath="$PROJECT_DIR$/comments/pticha/os-ru-zh/pticha-os-ru-zh.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments/pticha-os-ru-zh.minified.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/set-up-import.js" beforeDir="false" afterPath="$PROJECT_DIR$/articles/articles-import.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,20 +25,34 @@
     <splitter split-orientation="horizontal" split-proportion="0.46289536">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/set-up-import.js">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/comments/pticha/ob-ru-zh/pticha-ob-ru-zh.json">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/comments/pticha/ob-ru-zh/50.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="320">
-                  <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+                <state relative-caret-position="140">
+                  <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/articles/pticha/he-bs/pticha-he-bs-2.json">
+            <entry file="file://$PROJECT_DIR$/comments/pticha/ob-ru-zh/45.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="720">
-                  <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+                <state relative-caret-position="380">
+                  <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/comments/comments-import.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="540">
+                  <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
                 </state>
               </provider>
             </entry>
@@ -79,6 +91,10 @@
       <find>ru-bb</find>
       <find>orhasulam</find>
       <find>he-orhasulam</find>
+      <find>he-bs</find>
+      <find>articles</find>
+      <find>ru-zh</find>
+      <find>\n</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -87,6 +103,9 @@
       <replace>he-orhasulam</replace>
       <replace>baal-sulam</replace>
       <replace>he-bs</replace>
+      <replace>ru-zh</replace>
+      <replace>.</replace>
+      <replace>os-ru-zh</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -95,21 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/comments/toimport.json" />
-        <option value="$PROJECT_DIR$/toimport.minified.json" />
-        <option value="$PROJECT_DIR$/articles/pticha/pticha-ru-bb-41.json" />
-        <option value="$PROJECT_DIR$/articles/pticha/ru-bb/pticha-ru-bb-41.json" />
-        <option value="$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-41.json" />
-        <option value="$PROJECT_DIR$/articles/pticha/ru-zh/pticha-ru-zh-41.json" />
-        <option value="$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-42.json" />
-        <option value="$PROJECT_DIR$/articles/pticha/ru-bb/pticha-ru-bb-42.json" />
-        <option value="$PROJECT_DIR$/articles/pticha/ru-zh/pticha-ru-zh-42.json" />
-        <option value="$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-43.json" />
-        <option value="$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-44.json" />
-        <option value="$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-45.json" />
-        <option value="$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-46.json" />
-        <option value="$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-47.json" />
-        <option value="$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-48.json" />
         <option value="$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-49.json" />
         <option value="$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-50.json" />
         <option value="$PROJECT_DIR$/articles/pticha/ru-bb/pticha-ru-bb-43.json" />
@@ -146,14 +150,29 @@
         <option value="$PROJECT_DIR$/articles/pticha/he-bs/pticha-he-bs-3.json" />
         <option value="$PROJECT_DIR$/articles/pticha/he-bs/pticha-he-bs-17.json" />
         <option value="$PROJECT_DIR$/set-up-import.js" />
+        <option value="$PROJECT_DIR$/comments/pticha/os-ru-zh/pticha-os-ru-zh.json" />
+        <option value="$PROJECT_DIR$/comments/pticha/os-ru-zh/pticha-os-ru-zh-41.json" />
+        <option value="$PROJECT_DIR$/comments/pticha/os-ru-zh/pticha-os-ru-zh-42.json" />
+        <option value="$PROJECT_DIR$/articles/articles-import.js" />
+        <option value="$PROJECT_DIR$/comments/pticha/os-ru-zh/44.json" />
+        <option value="$PROJECT_DIR$/comments/pticha/os-ru-zh/45.json" />
+        <option value="$PROJECT_DIR$/comments/pticha/os-ru-zh/46.json" />
+        <option value="$PROJECT_DIR$/comments/pticha/os-ru-zh/47.json" />
+        <option value="$PROJECT_DIR$/comments/pticha/os-ru-zh/48.json" />
+        <option value="$PROJECT_DIR$/comments/pticha/os-ru-zh/49.json" />
+        <option value="$PROJECT_DIR$/comments/pticha/os-ru-zh/50.json" />
+        <option value="$PROJECT_DIR$/comments/pticha/os-ru-zh/43.json" />
+        <option value="$PROJECT_DIR$/comments/pticha/ob-ru-zh/50.json" />
+        <option value="$PROJECT_DIR$/comments/pticha/ob-ru-zh/45.json" />
+        <option value="$PROJECT_DIR$/comments/comments-import.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -163,35 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
-              <item name="book-data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
-              <item name="book-data" type="462c0819:PsiDirectoryNode" />
-              <item name="articles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
-              <item name="book-data" type="462c0819:PsiDirectoryNode" />
-              <item name="articles" type="462c0819:PsiDirectoryNode" />
-              <item name="pticha" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
-              <item name="book-data" type="462c0819:PsiDirectoryNode" />
-              <item name="articles" type="462c0819:PsiDirectoryNode" />
-              <item name="pticha" type="462c0819:PsiDirectoryNode" />
-              <item name="ru-zh" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -214,30 +204,70 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-data" type="462c0819:PsiDirectoryNode" />
+              <item name="articles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-data" type="462c0819:PsiDirectoryNode" />
+              <item name="articles" type="462c0819:PsiDirectoryNode" />
+              <item name="pticha" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-data" type="462c0819:PsiDirectoryNode" />
+              <item name="comments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-data" type="462c0819:PsiDirectoryNode" />
+              <item name="comments" type="462c0819:PsiDirectoryNode" />
+              <item name="pticha" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book-data" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book-data" type="462c0819:PsiDirectoryNode" />
+              <item name="comments" type="462c0819:PsiDirectoryNode" />
+              <item name="pticha" type="462c0819:PsiDirectoryNode" />
+              <item name="ob-ru-zh" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/articles/pticha/he-bs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/comments/pticha/ob-ru-zh" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\articles" />
+      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\comments\foreword-zoar\bv-ru-zh" />
+      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\comments\pticha\ob-ru-яр" />
+      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\comments\pticha\os-ru-zh" />
+      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\articles\pticha\ru-zh" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\comments\pticha\ob-ru-zh" />
+      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\comments\pticha\os-ru-zh" />
+      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\comments" />
       <recent name="C:\Users\ooleynichenko\OneDrive\book-data\articles\pticha\he-bs" />
       <recent name="C:\Users\ooleynichenko\OneDrive\book-data\articles\pticha\he-orhasulam" />
-      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\articles\pticha\ru-zh" />
-      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\articles\pticha\ru-bb" />
-      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\articles\pticha\en-bb" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\articles\pticha\ru-zh" />
-      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\articles\pticha\he-orhasulam" />
-      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\articles\pticha\en-bb" />
-      <recent name="C:\Users\ooleynichenko\OneDrive\book-data\articles\pticha\ru-bb" />
-      <recent name="C:\Users\ooleynichenko\OneDrive\book-data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -252,13 +282,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="set-up-import.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="set-up-import.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.comments-import.js">
+    <configuration name="articles-import.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/articles/articles-import.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="comments-import.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="comments-import.js" working-dir="$PROJECT_DIR$/comments">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.set-up-import.js" />
+        <item itemvalue="Node.js.comments-import.js" />
+        <item itemvalue="Node.js.articles-import.js" />
       </list>
     </recent_temporary>
   </component>
@@ -285,15 +319,16 @@
       <workItem from="1575980553507" duration="1615000" />
       <workItem from="1578227214638" duration="6208000" />
       <workItem from="1578312622617" duration="11827000" />
-      <workItem from="1578387182727" duration="1510000" />
+      <workItem from="1578387182727" duration="1801000" />
+      <workItem from="1578398086540" duration="4039000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31781000" />
+    <option name="totallyTimeSpent" value="36111000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13382508" />
@@ -301,7 +336,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16354166" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3869565" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -340,105 +375,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/articles/pticha/ru-bb/pticha-ru-bb-44.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/pticha/ru-bb/pticha-ru-bb-45.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/pticha/ru-bb/pticha-ru-bb-46.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/pticha/ru-bb/pticha-ru-bb-47.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/pticha/ru-bb/pticha-ru-bb-48.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/pticha/ru-bb/pticha-ru-bb-49.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/pticha/ru-bb/pticha-ru-bb-50.minified.json" />
-    <entry file="file://$PROJECT_DIR$/articles/pticha/ru-bb/pticha-ru-bb-51.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-43.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-42.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-44.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-45.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-46.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-47.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-48.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/articles/pticha/en-bb/pticha-en-bb-49.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -522,15 +458,6 @@
           <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comments/foreword-zoar-brand-ru-zh.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comments/pticha-ob-ru-zh.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comments/pticha-os-ru-zh.json">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/articles/pticha/ru-bb/pticha-ru-bb-41.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -655,27 +582,147 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/articles/pticha/he-bs/pticha-he-orhasulam-41.json">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/toimport.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="955" selection-start-column="955" selection-end-column="955" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/articles/pticha/he-bs/pticha-he-bs-2.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
+        <state relative-caret-position="440">
           <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/toimport.json">
+    <entry file="file://$PROJECT_DIR$/articles/pticha/he-bs/pticha-he-orhasulam-41.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/foreword-zoar/bv-ru-zh/foreword-zoar-brand-ru-zh.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret column="955" lean-forward="true" selection-start-column="955" selection-end-column="955" />
+        <state relative-caret-position="100">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/set-up-import.js">
+    <entry file="file://$PROJECT_DIR$/comments/pticha/os-ru-zh/pticha-os-ru-zh.minified.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/pticha/os-ru-zh/pticha-os-ru-zh.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="120">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#4#3328#0" />
+            <element signature="e#3332#10692#0" />
+            <element signature="e#10696#21922#0" />
+            <element signature="e#21926#23355#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/articles/articles-import.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/pticha/os-ru-zh/41.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/pticha/os-ru-zh/42.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="8" column="4549" selection-start-line="8" selection-start-column="4549" selection-end-line="8" selection-end-column="4549" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/pticha/os-ru-zh/43.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/pticha/os-ru-zh/44.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="8" column="4477" lean-forward="true" selection-start-line="8" selection-start-column="4477" selection-end-line="8" selection-end-column="4477" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/pticha/os-ru-zh/45.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/pticha/os-ru-zh/47.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/pticha/os-ru-zh/48.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="8" column="2429" selection-start-line="8" selection-start-column="2429" selection-end-line="8" selection-end-column="2429" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/pticha/os-ru-zh/49.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="8" column="101" lean-forward="true" selection-start-line="8" selection-start-column="101" selection-end-line="8" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/pticha/os-ru-zh/50.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/toimport.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/pticha/ob-ru-zh/pticha-ob-ru-zh.minified.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/pticha/ob-ru-zh/pticha-ob-ru-zh.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/pticha/ob-ru-zh/50.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/pticha/ob-ru-zh/45.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments/comments-import.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
