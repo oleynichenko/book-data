@@ -1,0 +1,35 @@
+[
+  {
+    "articleId": "1",
+    "authorId": "bb",
+    "langId": "en",
+    "title": "Paragraph 1",
+    "bookId": "foreword-tes",
+    "chunks": [
+      {
+        "chunkId": "1",
+        "content": "At the outset of my words, I find a great need to break an iron wall that has been separating us from the wisdom of Kabbalah, since the ruin of the to this generation. It lies heavily on us and arouses fear of being forgotten from Israel."
+      },
+      {
+        "chunkId": "2",
+        "content": "However, when I begin to speak to anyone about engaging in this study, his first question is, “Why should I know how many angels are in the sky and what their names are? Can I not keep the whole Torah in all its details and intricacies without this knowledge?”"
+      },
+      {
+        "chunkId": "3",
+        "content": "Second, he will ask, “The sages have already determined that one must first fill one’s belly with Mishnah and Gemara, and who can deceive himself that he has already completed the whole of the revealed Torah, and lacks only the wisdom of the hidden?”"
+      },
+      {
+        "chunkId": "4",
+        "content": "Third, he is afraid that he will turn sour because of this engagement. This is because there have already been incidents of deviation from the path of Torah because of engagement in Kabbalah. Hence, “Why do I need this trouble? Who is so foolish as to place himself in danger for no reason?”"
+      },
+      {
+        "chunkId": "5",
+        "content": "Fourth: Even those who favor this study permit it only to holy people, servants of the Creator, and not all who wish to take the Lord may come and take."
+      },
+      {
+        "chunkId": "6",
+        "content": "Fifth, and most important, “There is a conduct in our midst that, when in doubt, keep this: Do as the people do,” and my eyes see that all those who study Torah in my generation have one view, and refrain from studying the hidden. Moreover, they advise those who ask them that it is undoubtedly preferable to study a page of Gemara instead of this engagement."
+      }
+    ]
+  }
+]

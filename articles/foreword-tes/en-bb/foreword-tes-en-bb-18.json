@@ -1,0 +1,23 @@
+[
+  {
+    "articleId": "18",
+    "authorId": "bb",
+    "langId": "en",
+    "title": "Paragraph 18",
+    "bookId": "foreword-tes",
+    "chunks": [
+      {
+        "chunkId": "1",
+        "content": "Clearly, they cannot rid themselves of the judgment. If they say that they received that spice and still have thoughts of transgression, meaning that they are still in doubt and the evil inclination has not yet melted, for the Creator, Who created it and gave the evil inclination its strength, evidently knew to create the remedy and the spice liable to wear off the power of the evil inclination and eradicate it altogether."
+      },
+      {
+        "chunkId": "2",
+        "content": "And if one practices Torah and fails to remove the evil inclination from himself, it is either that he has been negligent in giving the necessary labor and exertion in the practice of Torah, as it is written, “I did not labor and found, do not believe,” or perhaps he did put in the necessary amount of labor, but has been negligent in the quality. This means that while practicing Torah, they did not set their minds and hearts to draw the light in the Torah, which brings faith to one’s heart. Rather, they have been absent-minded about the principal requirement demanded of the Torah, namely the light that yields faith. And although they initially aimed for it, their minds went astray during the study."
+      },
+      {
+        "chunkId": "3",
+        "content": "Either way, one cannot rid oneself of the judgment by arguing coercion, for our sages strictly state, “I have created the evil inclination; I have created for it the Torah as a spice.” If there had been any exceptions in this, then Job’s question would remain valid."
+      }
+    ]
+  }
+]

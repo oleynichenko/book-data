@@ -1,0 +1,19 @@
+[
+  {
+    "articleId": "2",
+    "authorId": "bb",
+    "langId": "en",
+    "title": "Paragraph 2",
+    "bookId": "foreword-tes",
+    "chunks": [
+      {
+        "chunkId": "1",
+        "content": "Indeed, if we set our hearts to answer but one very famous question, I am certain that all these questions and doubts will vanish from the horizon, and you will look unto their place to find them gone, meaning this indignant question that the whole world asks, namely, “What is the meaning of my life?” In other words, these numbered years of our life that cost us so heavily, and the numerous pains and torments that we suffer for them, to complete them to the fullest, who is it who enjoys them? Or even more precisely, whom do I delight?"
+      },
+      {
+        "chunkId": "2",
+        "content": "It is indeed true that historians have grown weary contemplating it, and particularly in our generation, no one even wishes to consider it. Yet the question stands as bitterly and as vehemently as ever. Sometimes it meets us uninvited, pecks at our minds and degrades us to the ground before we find the famous ploy of flowing mindlessly in the currents of life as always."
+      }
+    ]
+  }
+]
